@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Archives
+title: Blog Posts
 skip_related: true
 ---
 
