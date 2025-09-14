@@ -16,3 +16,7 @@ class Thing
 	end
 end
 ```
+
+- [x] test
+- [x] te4st
+- [ ] test
