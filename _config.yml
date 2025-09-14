@@ -16,7 +16,7 @@ timezone:
 
 title: Dain Miller # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: I'm a software engineer and entrepreneur. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Dain Miller's personal blog - thoughts on technology, development, and life.
@@ -35,10 +35,10 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Dain Miller
-  email: example@domain.com # change to your email address
+  email: d@dainmiller.me # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://dainmiller.me # change to your main site homepage
+    - https://www.dainmiller.me # change to your main site homepage
     - https://github.com/dainmiller # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
